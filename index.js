@@ -19,6 +19,8 @@ class App extends Component {
           Start editing to see some magic happen :)
           i 澳门
           我是lwp
+
+          123
         </p>
       </div>
     );
